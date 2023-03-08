@@ -1,1 +1,1 @@
-Worth your while
+Life is a series

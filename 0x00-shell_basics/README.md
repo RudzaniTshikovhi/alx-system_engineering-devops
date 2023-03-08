@@ -1,1 +1,1 @@
-Displayin the contents list of current directory
+script that changes the working directory to the user’s home directory

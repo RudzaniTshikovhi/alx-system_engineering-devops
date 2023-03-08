@@ -1,1 +1,1 @@
-Printer
+symbolic

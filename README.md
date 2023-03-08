@@ -1,1 +1,1 @@
-emacs file
+Worth your while

@@ -1,1 +1,1 @@
-These are shell permission commands
+ These are shell permission commands

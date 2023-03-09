@@ -1,1 +1,1 @@
-Life is a series
+These are shell permission commands
